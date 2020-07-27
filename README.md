@@ -24,4 +24,4 @@ Python ssh.py <hostname1,hostname2,hostname3>
 ```
 
 ## Screenshots 
-Screenshots have been attached for Dockerfile and Python file in Screenshots folder.
+Screenshots have been attached for DockerFile and Python file in Screenshots folder.
